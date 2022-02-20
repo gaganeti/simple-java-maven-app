@@ -25,7 +25,7 @@ public class AppTest
         try {
             new App();
         } catch (Exception e) {
-            fail("Construction failed.");
+            fail("Changed Text to Fail.");
         }
     }
 
